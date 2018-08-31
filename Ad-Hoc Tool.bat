@@ -152,6 +152,7 @@ cls
 set /p profilename=SSID of network :  
 netsh wlan connect ssid=%profilename%
 ECHO.
+pause >nul
 ECHO Returning to menu...
 timeout 1
 goto start
