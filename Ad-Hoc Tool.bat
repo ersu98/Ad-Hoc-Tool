@@ -344,9 +344,9 @@ ECHO.
 ECHO.
 ECHO                         Contact info:
 ECHO.
-ECHO                         Skype  = ersu98
-ECHO                         Steam  = http://steamcommunity.com/profiles/76561198042134261/
-ECHO                         GitHub = https://github.com/ersu98
+ECHO                        Discord = Erik#9730
+ECHO                        Steam   = http://steamcommunity.com/profiles/76561198042134261/
+ECHO                        GitHub  = https://github.com/ersu98
 ECHO.
 pause >nul
 goto start
@@ -384,5 +384,5 @@ goto start
 
 
 
-REM       Script made by Erik S      YT = https://www.youtube.com/channel/UCc1OK_Y--hcNG9abwzsvdrg
-REM                               Skype = ersu98
+REM       Script made by Erik S        YT = https://www.youtube.com/channel/UCc1OK_Y--hcNG9abwzsvdrg
+REM                                    DC = Erik#9730
