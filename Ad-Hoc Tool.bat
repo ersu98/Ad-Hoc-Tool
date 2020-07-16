@@ -385,4 +385,4 @@ goto start
 
 
 REM       Script made by Erik S        YT = https://www.youtube.com/channel/UCc1OK_Y--hcNG9abwzsvdrg
-REM                                    DC = Erik#9730
+REM                                    DC = Erik#0073
